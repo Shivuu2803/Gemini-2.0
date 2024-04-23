@@ -51,4 +51,3 @@ Access the application in your browser at [http://localhost:3000](http://localho
 ## Contributing
 
 Contributions to Gemini 2.0 are welcome! If you have any ideas for improvements or bug fixes, feel free to submit a pull request.
-```
