@@ -1,15 +1,14 @@
-# Gemini 2.0
+Gemini 2.0
 
 Gemini 2.0 is a React.js-based chat application powered by an AI chatbot, designed to mimic the Gemini protocol.
+Features
 
-## Features
+Sidebar: Allows users to initiate new chats and view recent prompts.
+Main Interface: Displays chat interface, greeting messages, suggested prompts, and chat results.
+Gemini API Integration: Utilizes Google Generative AI API for generating responses.
+Responsive Design: Built with React.js for cross-device compatibility.
 
-- **Sidebar**: Allows users to initiate new chats and view recent prompts.
-- **Main Interface**: Displays chat interface, greeting messages, suggested prompts, and chat results.
-- **Gemini API Integration**: Utilizes Google Generative AI API for generating responses.
-- **Responsive Design**: Built with React.js for cross-device compatibility.
-
-## Getting Started
+Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -17,7 +16,7 @@ Gemini 2.0 is a React.js-based chat application powered by an AI chatbot, design
 git clone https://github.com/your-username/gemini-2.0.git
 cd gemini-2.0
 
-2. Install dependencies using npm:
+ Install dependencies using npm:
 npm install
 
 3. Obtain your Google Generative AI API key and update the API_KEY variable in gemini.jsx.
